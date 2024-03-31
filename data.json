@@ -1,0 +1,76 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi there", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
+      "responses": ["Hello, thanks for asking. Good to see you again. Hi there?"],
+      "context": [""]
+    },
+    {
+      "tag": "wishes",
+      "patterns": ["How are you"],
+      "responses": ["Thanks for asking. How can I help you?"],
+      "context": [""]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+      "responses": ["See you! Have a nice day. Bye! Come back again soon."],
+      "context": [""]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+      "responses": ["Happy to help! Any time! My pleasure"],
+      "context": [""]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [],
+      "responses": ["Sorry, can't understand you. Please give me more info. Not sure I understand."],
+      "context": [""]
+    },
+    {
+      "tag": "options",
+      "patterns": ["How you could help me", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+      "responses": ["I can assist you in various ways! Here are some of the ways I can help: Offer guidance on improving technical skills,tips for writing the resume and resources for learning coding."],
+      "context": [""]
+    },
+    {
+      "tag": "programming_languages",
+      "patterns": ["Which programming language should I learn?"],
+      "responses": ["There are several programming languages you can learn based on your interests and goals."],
+      "context": [""]
+    },    
+    {
+      "tag": "start_program",
+      "patterns": ["Can you suggest a programming language"],
+      "responses": ["Sure! Here are some popular programming languages to consider learning: Python - Known for its simplicity and versatility."],
+      "context": [""]
+    },
+    {
+      "tag": "tutorials",
+      "patterns": ["Where can I find programming tutorials?"],
+      "responses": ["Absolutely! Here are some excellent resources for learning programming: Codecademy offers interactive coding tutorials covering various programming languages and topics. Khan Academy provides free courses on programming fundamentals and computer science concepts. YouTube has many channels offering tutorials and guides on programming languages and development. GitHub allows you to explore open-source projects and collaborate with other developers to enhance your skills."],
+      "context": [""]
+    },    
+    {
+      "tag": "tech_career",
+      "patterns": ["can you say About the tech"],
+      "responses": ["Sure! The tech industry offers a wide range of career opportunities. Here are some popular tech-related career paths: Software Developer - Design and develop software applications, websites, and mobile apps. Data Scientist - Analyze and interpret complex data to help businesses make data-driven decisions. Cybersecurity Analyst - Protect organizations' networks, systems, and data from cyber threats and attacks. UX/UI Designer - Create intuitive and visually appealing user interfaces and experiences for websites and applications. Cloud Engineer - Design, implement, and manage cloud infrastructure and services for businesses. AI/Machine Learning Engineer - Develop algorithms and models to enable machines to learn from data and perform tasks autonomously."],
+      "context": [""]
+    },    
+    {
+      "tag": "resume_writing",
+      "patterns": ["How do I write a compelling resume?", "tips for writing a resume?", "What should I include in my resume?"],
+      "responses": ["Writing a strong resume is essential for landing interviews. Here are some tips:\n1. Tailor your resume to the job description.\n2. Use action verbs to describe your accomplishments.\n3. Quantify your achievements with numbers when possible.\n4. Highlight relevant skills and experiences.\n5. Keep it concise and easy to read.\nBy following these guidelines, you can create a compelling resume that grabs employers' attention."]
+    },    
+    {
+      "tag": "HR_round",
+      "patterns": ["What are the questions asked on HR round"],
+      "responses": ["1. Tell me about yourself.2. What are your strengths and weaknesses?, Practice active learning techniques like summarizing and teaching the material to someone else."],
+      "context": [""]
+    }
+  ]
+}
+
