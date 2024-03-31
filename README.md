@@ -6,3 +6,6 @@ As I was developed a retrieval-based chatbot, we should define responses as “I
 The intents I have given:
 ![image](https://github.com/rak-shi/Developing-NLP-based-chatbot-using-Deeplearning/assets/122455761/7dbb04c4-52eb-43f0-bea7-210d8b0c6443)
 ![image](https://github.com/rak-shi/Developing-NLP-based-chatbot-using-Deeplearning/assets/122455761/cf32178b-3573-47d8-8807-3a8416a1436e)
+
+Packages:
+![image](https://github.com/rak-shi/Developing-NLP-based-chatbot-using-Deeplearning/assets/122455761/2c41c36b-ae51-40dd-9dfe-389a213d12e9)
