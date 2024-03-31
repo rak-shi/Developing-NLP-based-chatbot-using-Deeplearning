@@ -8,4 +8,14 @@ The intents I have given:
 ![image](https://github.com/rak-shi/Developing-NLP-based-chatbot-using-Deeplearning/assets/122455761/cf32178b-3573-47d8-8807-3a8416a1436e)
 
 Packages:
-![image](https://github.com/rak-shi/Developing-NLP-based-chatbot-using-Deeplearning/assets/122455761/2c41c36b-ae51-40dd-9dfe-389a213d12e9)
+nltk==3.7
+numpy==1.23.3
+tensorflow==2.10.0
+joblib==1.2.0
+keras==2.10.0
+Keras-Preprocessing==1.1.2
+
+This framework provides a structured approach to designing, developing, and deploying chatbot solutions. It outlines the key components and considerations involved in creating an effective and functional chatbot. The database represents the intents of the chatbot.
+![image](https://github.com/rak-shi/Developing-NLP-based-chatbot-using-Deeplearning/assets/122455761/fdb64a44-d5a4-42ba-bb0c-2aad1d67ba8d)
+
+
